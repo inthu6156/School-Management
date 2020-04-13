@@ -1,0 +1,91 @@
+{
+  "userdetails": [
+    {
+      "uid": "inthu6156",
+      "password": "123456",
+      "role": "student",
+      "id": 1
+    },
+    {
+      "uid": "yaseen6156",
+      "password": "123456",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "uid": "mounika6156",
+      "password": "123456",
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "uid": "",
+      "password": "123456",
+      "role": "",
+      "id": 4
+    },
+    {
+      "uid": "rdtgdfjgdf",
+      "password": "",
+      "role": "",
+      "id": 5
+    },
+    {
+      "uid": "tyutduyudtyuyutyu",
+      "password": null,
+      "role": null,
+      "id": 6
+    }
+  ],
+  "addusers": [
+    {
+      "uid": "Play KG",
+      "password": "11,000",
+      "id": 1
+    },
+    {
+      "uid": "LKG",
+      "password": "20,000",
+      "id": 2
+    },
+    {
+      "uid": "UKG",
+      "password": "30,000",
+      "id": 3
+    }
+  ],
+  "depts": [
+    {
+      "ten": "8th Class",
+      "fee": "80,000",
+      "id": 1
+    },
+    {
+      "ten": "9th Class",
+      "fee": "90,000",
+      "id": 2
+    },
+    {
+      "ten": "10th Class",
+      "fee": "99,000",
+      "id": 3
+    }
+  ],
+  "deps": [
+    {
+      "high": "B.Tech",
+      "fee": "1L",
+      "id": 1
+    },
+    {
+      "high": "M.Tech",
+      "fee": "2L",
+      "id": 2
+    },
+    {
+      "high": "Ph.D",
+      "fee": "5L",
+      "id": 3
+    }
+  ]
+}
